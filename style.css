@@ -1,0 +1,23 @@
+.container {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	flex-direction: column;
+	
+	width: 100px;
+}
+
+h1 {
+	text-align: center;
+}
+
+input {
+	display: block;
+	margin: 0 auto;
+}
+.result {
+	display: block;
+}
+.text {
+	text-align: center;
+}
